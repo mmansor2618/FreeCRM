@@ -1,0 +1,5 @@
+com\freecrm\util\WebListener.class
+com\freecrm\pages\LoginPage.class
+com\freecrm\pages\HomePage.class
+com\freecrm\base\TestBase.class
+com\freecrm\util\TestUtils.class
